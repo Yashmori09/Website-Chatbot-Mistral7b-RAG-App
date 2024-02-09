@@ -1,0 +1,12 @@
+streamlit
+bs4
+requests
+python-dotenv
+transformers
+llama-cpp-python
+llama-index
+torch
+sentence-transformers
+langchain-community
+streamlit_chat 
+streamlit_extras
